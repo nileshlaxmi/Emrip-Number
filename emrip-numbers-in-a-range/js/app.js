@@ -23,9 +23,6 @@ const clickFunction = () => {
         }
 
         if(c1 === 2 && c2 === 2){
-            console.log("Emrip number", j);
-            console.log("Reverse number", revNum);
-            // document.getElementById('opText').innerHTML = "Emrip Numbers "+ j+ "<br/> Reverse Number "+revNum;
             var para = document.createElement("p");
             para.innerHTML = "Emrip Numbers "+ j+ "<br/> Reverse Number "+revNum;
             document.getElementById('opText').appendChild(para);
