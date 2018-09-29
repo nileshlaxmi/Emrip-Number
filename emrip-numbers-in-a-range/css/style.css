@@ -5,15 +5,14 @@ body{
 #outer{    
     position: relative;
     background-color: #000;
-    height: 550px;
+    height: auto;
 }
 
 #inner{
     position: absolute;
     margin: auto;
     top: 0; left: 0; bottom: 0; right: 0;
-    border: 2px solid rgb(252, 243, 243);
-    height: 200px;
+    height: auto;
     width: 600px;    
     background-color: #ce0000;
     border-radius: 10px;
