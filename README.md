@@ -15,3 +15,9 @@ Input: 23
 
 Output: false (23 is a prime number, but 32 is not)
 ```
+
+Repo contains two folders:
+
+* Single Number Checker - It will check a number if it is an **Emrip number** or not.
+
+* Number in a Range - It will print all **Emrip numbers** between a range
